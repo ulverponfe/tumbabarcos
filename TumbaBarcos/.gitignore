@@ -1,0 +1,4 @@
+*.[class jar]
+# ignora los ficheros con extensión .class .jar
+/bin/
+# ignora el contenido del directorio bin
