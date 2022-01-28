@@ -1,0 +1,6 @@
+*.class
+#ignora los ficheros con extensión class
+*.bak
+#ignora los archivos con extensión bak
+Tipos/
+#ignora el contenido del directorio Tipos
